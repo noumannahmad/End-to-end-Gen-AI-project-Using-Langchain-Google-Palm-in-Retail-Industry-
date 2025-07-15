@@ -41,7 +41,7 @@ git clone https://github.com/noumannahmad/End-to-end-Gen-AI-project-Using-Langch
 2.Navigate to the project directory:
 
 ```bash
-  cd 4_sqldb_tshirts
+  cd nd-to-end-Gen-AI-project-Using-Langchain-Google-Palm-in-Retail-Industry-
 ```
 3. Install the required dependencies using pip:
 
